@@ -1,0 +1,162 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 15px; 
+}
+
+.container{
+    width: 700px;
+    min-height: 790px;
+    background-image: linear-gradient(#d6e7e7, white, #d6e7e7);
+    margin: 0px auto;
+    border-radius: 5px;
+}
+
+header{
+    max-width: 680px;
+    margin: 0 auto 15px auto;
+    padding: 0;    
+}
+
+    .top{
+        margin: 20px 0 0 0;
+        width: 400px;
+        vertical-align: top;
+        padding: 20px 20px 20px 30px;
+    }
+
+    h1{
+        font-size: 40px;
+        letter-spacing: 2.5px;
+        margin-bottom: 3px;
+        color: #2c4464;
+    }
+
+    h4{
+        letter-spacing: .5px;
+        padding-bottom: 20px;
+        color: #1b1c1c;
+    }
+
+    .line{
+        border-top: 3px solid #2c4464;
+        width: 466px;
+    }
+
+    header p{
+        letter-spacing: 1.25px;
+        width: 466px;
+        margin-top: 15px;
+    }
+
+img{
+    margin: 20px 0 0 0;
+    width: 180px;
+    height: 160px;
+    object-fit: cover;
+    object-position: 75% 0;
+    display: inline-block;
+    border-radius: 3px;
+}
+
+.top{
+    display: inline-block;
+    vertical-align: top;
+}
+
+.getKnow{
+    max-width: 640px;
+    height: 190px;
+    margin: 0px auto 10px auto;
+    padding: 10px 20px;
+    text-align: center;
+    line-height: 20px;
+    border-radius: 3px;
+    background-image: radial-gradient(#e4ecec, white, #e4ecec);
+}
+
+    .getKnow h3{
+        margin-top: 5px;
+        color: #4c443c;
+        letter-spacing: .75px;
+        font-size: large;
+    }
+
+    .getKnow p{
+        margin: 12px 0;
+        text-align: justify;
+        letter-spacing: .20px;
+        color: #1b1c1c;
+    }
+
+.love{
+    width: 325px;
+    height: 250px;
+    display: inline-block;
+    margin: 0 0 0 10px;
+}
+
+    .love h3{
+        text-align: center;
+        color: #4c443c;
+        letter-spacing: .75px;
+        margin: 10px 0 20px 0;
+        font-size: large;
+    }
+
+    .love img{
+        margin: 0 -20px 0 25px;    
+        width: 50px;
+        height: 50px;
+    }
+
+.proj{
+    width: 325px;
+    height: 320px;
+    display: inline-block;
+    text-align: center;
+    vertical-align: top;
+    margin: 0 10px 0 25px;
+    border-radius: 3px;
+    background-image: radial-gradient(#cdcdcd, white, #cdcdcd);
+}
+
+    .proj h3{
+        margin-top: 10px;
+        color: #4c443c;
+        letter-spacing: .75px;
+        font-size: large;
+    }
+
+    .proj h4{
+        border: none;
+        margin: 20px 0 -20px 20px;
+        text-align: justify;
+    }
+
+    .proj p{
+        text-align: justify;
+        padding: 0 20px;
+        color: #1b1c1c;
+    }
+
+footer{
+    width: 335px;
+    margin: 15px auto 15px auto;
+}
+
+    footer img{
+        width: 20px;
+        height: 20px;
+        margin: 0 -5px 0 0;
+    }
+
+    footer a{
+        color: black;
+        font-style: italic;
+        margin: 0 5px;
+    }
+
+
+
